@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net45;net40;netcoreapp1.0;netstandard1.0</TargetFrameworks>
+    <TargetFrameworks>net45;net40;netcoreapp1.0;netstandard1.0;net8.0</TargetFrameworks>
 	<Optimize Condition="'$(Configuration)'=='Release'">True</Optimize>
 	<Version>1.1.0.0</Version>
 	<DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(MSBuildProjectName).xml</DocumentationFile>

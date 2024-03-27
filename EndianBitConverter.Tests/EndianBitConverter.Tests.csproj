@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>    
-    <TargetFrameworks>net45;netcoreapp1.0</TargetFrameworks>
+  <PropertyGroup>
+    <TargetFrameworks>net45;netcoreapp1.0;net8.0</TargetFrameworks>
 	<Optimize>False</Optimize>
   </PropertyGroup>
 
